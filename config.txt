@@ -55,7 +55,7 @@ songinstatus = false
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 
-altprefix = "NONE"
+altprefix = "1"
 
 
 // If you set these, it will change the various emojis
